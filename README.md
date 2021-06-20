@@ -29,6 +29,11 @@ Fornsigtuna的一个Fork，适合簡單的單頁宣传页，支援圖片附件�
 ## FileStoreGAE
 适合低负载的个人Blog的图床/网盘
 
+## QRCode
+曾经的https://qrcode.liantian.me/
 
+## GenPass
+曾经的http://genpass.liantian.me/
 
-
+## HideFile
+一个将文件隐藏到图片中的webapp
